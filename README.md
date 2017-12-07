@@ -1,2 +1,4 @@
 # get_Kospi
-Receive Kospi data using data-reader from Yahoo
+get_kospi.py receives historical Kospi data using data-reader from Yahoo
+
+koreanair.[y receives historical share price from Yahoo 
